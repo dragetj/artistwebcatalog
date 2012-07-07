@@ -1,0 +1,3 @@
+http://www.prototypejs.org/2009/3/27/prototype-1-6-1-rc2-ie8-compatibility-element-storage-and-bug-fixes
+
+Når en endelig versjon er ute, bytt ut med http://ajax.googleapis.com/ajax/libs/prototype/

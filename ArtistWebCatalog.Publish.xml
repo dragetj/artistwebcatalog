@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Temp\ArtistWebCatalog" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="App_Themes/images/lightview/controller_slideshow.png" publishTime="09/02/2008 13:08:00" />
+    <file relUrl="Default.aspx" publishTime="08/30/2009 10:25:48" />
+    <file relUrl="App_Themes/images/lightview/controller_prev.png" publishTime="09/02/2008 13:08:00" />
+    <file relUrl="App_Themes/images/_rrart spesific images/system/Brigt.jpg" publishTime="06/14/2009 19:20:12" />
+    <file relUrl="Contact.aspx" publishTime="08/30/2009 11:09:52" />
+    <file relUrl="App_Themes/images/lightview/close_small.png" publishTime="09/02/2008 13:15:00" />
+    <file relUrl="App_Themes/images/_rrart spesific images/Utstilling_GalleriSyningen_10.jpg" publishTime="02/23/2011 12:16:15" />
+    <file relUrl="App_Themes/images/_tskdesign spesific images/system/corner.gif" publishTime="04/19/2009 21:04:54" />
+    <file relUrl="App_Themes/images/lightview/inner_next.png" publishTime="09/02/2008 18:47:00" />
+    <file relUrl="products.xml" publishTime="11/08/2011 07:54:50" />
+    <file relUrl="App_Themes/images/_rrart spesific images/Utstilling_Kjerringtorget_06.jpg" publishTime="08/27/2009 15:36:42" />
+    <file relUrl="Web.config" publishTime="12/16/2011 08:06:22" />
+    <file relUrl="App_Themes/images/lightview/inner_slideshow_stop.png" publishTime="09/02/2008 13:19:00" />
+    <file relUrl="ColorMap.aspx" publishTime="08/30/2009 10:28:04" />
+    <file relUrl="App_Themes/images/lightview/next.png" publishTime="09/02/2008 13:08:00" />
+    <file relUrl="App_Themes/css/admin.css" publishTime="08/30/2009 10:32:34" />
+    <file relUrl="App_Themes/images/_rrart spesific images/Utstilling_Vikersund_07.jpg" publishTime="08/27/2009 15:36:42" />
+    <file relUrl="App_Themes/css/rrart.css" publishTime="02/21/2011 09:37:08" />
+    <file relUrl="App_Themes/images/_rrart spesific images/Utstilling_Nystugu_10.jpg" publishTime="02/21/2011 09:17:12" />
+    <file relUrl="ad.xml" publishTime="08/30/2009 15:13:48" />
+    <file relUrl="App_Themes/images/_tskdesign spesific images/system/Muscle.jpg" publishTime="04/19/2009 20:18:46" />
+    <file relUrl="bin/ArtistWebCatalog.dll" publishTime="03/05/2012 08:04:33" />
+    <file relUrl="App_Themes/images/_tskdesign spesific images/system/logo2.jpg" publishTime="04/19/2009 21:56:50" />
+    <file relUrl="App_Themes/images/_tskdesign spesific images/noimage.jpg" publishTime="06/14/2009 14:35:22" />
+    <file relUrl="App_Themes/css/tskdesign.css" publishTime="08/30/2009 11:11:16" />
+    <file relUrl="Recaptcha/Recaptcha.dll" publishTime="12/14/2010 18:19:48" />
+    <file relUrl="App_GlobalResources/admin.resx" publishTime="08/22/2009 17:52:04" />
+    <file relUrl="App_Themes/images/smileys/storklem.gif" publishTime="05/17/2009 00:41:58" />
+    <file relUrl="App_Themes/images/_tskdesign spesific images/system/corner_bottomRight.png" publishTime="04/19/2009 21:41:52" />
+    <file relUrl="App_Themes/images/lightview/close_large.png" publishTime="09/02/2008 13:15:00" />
+    <file relUrl="App_Themes/images/_tskdesign spesific images/system/playbutton.jpg" publishTime="05/26/2009 21:20:02" />
+    <file relUrl="App_Themes/images/lightview/prev.png" publishTime="09/02/2008 13:08:00" />
+    <file relUrl="App_Themes/images/smileys/frosk.gif" publishTime="05/16/2009 22:21:36" />
+    <file relUrl="App_Themes/images/smileys/peace.gif" publishTime="05/17/2009 00:31:20" />
+    <file relUrl="App_Themes/js/lightview.js" publishTime="06/11/2009 23:57:36" />
+    <file relUrl="App_Themes/images/_tskdesign spesific images/Bomull_lin.JPG" publishTime="06/23/2009 22:03:56" />
+    <file relUrl="App_Themes/images/lightview/controller_close.png" publishTime="09/02/2008 13:08:00" />
+    <file relUrl="App_Themes/images/_rrart spesific images/system/Muscle.jpg" publishTime="04/19/2009 20:18:46" />
+    <file relUrl="App_Themes/images/smileys/hund.gif" publishTime="05/16/2009 22:20:58" />
+    <file relUrl="bin/Recaptcha.pdb" publishTime="12/14/2010 18:19:48" />
+    <file relUrl="App_GlobalResources/tskdesign.resx" publishTime="08/30/2009 15:32:14" />
+    <file relUrl="App_GlobalResources/rrart.resx" publishTime="03/05/2012 08:04:29" />
+    <file relUrl="App_Themes/images/lightview/topclose.png" publishTime="09/02/2008 13:08:00" />
+    <file relUrl="App_Themes/images/lightview/loading.gif" publishTime="03/31/2008 21:09:00" />
+    <file relUrl="App_Themes/images/lightview/overlay.png" publishTime="09/02/2008 13:08:00" />
+    <file relUrl="AboutMe.aspx" publishTime="08/30/2009 10:32:40" />
+    <file relUrl="App_Themes/images/_tskdesign spesific images/system/logo_org.jpg" publishTime="04/21/2004 12:10:40" />
+    <file relUrl="App_Themes/images/smileys/banan.gif" publishTime="05/17/2009 00:33:36" />
+    <file relUrl="App_Themes/images/_rrart spesific images/system/playbutton.jpg" publishTime="08/29/2009 12:41:30" />
+    <file relUrl="Guestbook.aspx" publishTime="03/03/2011 14:34:15" />
+    <file relUrl="App_Themes/images/lightview/controller_stop.png" publishTime="09/02/2008 13:08:00" />
+    <file relUrl="Recaptcha/Recaptcha.pdb" publishTime="12/14/2010 18:19:48" />
+    <file relUrl="Admin.aspx" publishTime="11/08/2011 07:53:45" />
+    <file relUrl="App_Themes/images/smileys/glad.gif" publishTime="05/17/2009 00:41:32" />
+    <file relUrl="App_Themes/images/_rrart spesific images/Utstilling_Vestfoldmessen_09.jpg" publishTime="08/27/2009 15:36:46" />
+    <file relUrl="MasterPage.Master" publishTime="12/30/2011 13:50:49" />
+    <file relUrl="log.txt" publishTime="12/16/2011 11:45:20" />
+    <file relUrl="App_Themes/images/_rrart spesific images/Utstilling_GalleriGol_11.jpg" publishTime="03/05/2012 07:57:23" />
+    <file relUrl="App_Themes/images/_tskdesign spesific images/Bomull_perletvinn.jpg" publishTime="06/23/2009 22:44:34" />
+    <file relUrl="App_Themes/images/_tskdesign spesific images/Ull_superwash.JPG" publishTime="06/23/2009 22:07:52" />
+    <file relUrl="Exhibitions.aspx" publishTime="03/05/2012 08:01:20" />
+    <file relUrl="App_Themes/images/smileys/hadet.gif" publishTime="05/17/2009 00:41:48" />
+    <file relUrl="App_Themes/images/lightview/blank.gif" publishTime="09/02/2008 13:08:00" />
+    <file relUrl="App_Themes/images/_tskdesign spesific images/Kamgarn.JPG" publishTime="06/23/2009 22:13:16" />
+    <file relUrl="App_Themes/images/smileys/klem.gif" publishTime="05/17/2009 00:37:54" />
+    <file relUrl="App_Themes/images/lightview/inner_slideshow_play.png" publishTime="09/02/2008 13:19:00" />
+    <file relUrl="App_Themes/images/_tskdesign spesific images/system/corner_topRight.png" publishTime="04/19/2009 21:37:16" />
+    <file relUrl="App_Themes/images/_rrart spesific images/Utstilling_Kjerringtorget_08.jpg" publishTime="08/27/2009 15:36:44" />
+    <file relUrl="App_Themes/images/_rrart spesific images/Utstilling_Notteroy_09.jpg" publishTime="02/28/2011 08:38:45" />
+    <file relUrl="App_Themes/images/smileys/gris.gif" publishTime="05/16/2009 22:17:56" />
+    <file relUrl="App_Themes/images/_tskdesign spesific images/Ull.jpg" publishTime="06/23/2009 22:05:20" />
+    <file relUrl="App_Themes/images/_rrart spesific images/roselind.jpg" publishTime="08/29/2009 11:05:08" />
+    <file relUrl="App_Themes/images/_tskdesign spesific images/system/Brigt.jpg" publishTime="06/14/2009 19:20:12" />
+    <file relUrl="App_Themes/images/_rrart spesific images/Utstilling_Ringerike_10.jpg" publishTime="02/21/2011 09:17:12" />
+    <file relUrl="App_Themes/images/smileys/tilbe.gif" publishTime="05/17/2009 00:32:38" />
+    <file relUrl="App_Themes/images/lightview/inner_prev.png" publishTime="09/02/2008 18:47:00" />
+    <file relUrl="App_Themes/images/_tskdesign spesific images/Bomull.JPG" publishTime="06/23/2009 22:11:40" />
+    <file relUrl="ProductDetail.aspx" publishTime="12/16/2011 11:46:23" />
+    <file relUrl="App_Themes/images/lightview/controller_slideshow_stop.png" publishTime="09/02/2008 13:08:00" />
+    <file relUrl="App_Themes/images/lightview/controller_next.png" publishTime="09/02/2008 13:08:00" />
+    <file relUrl="App_Themes/images/smileys/fisk.gif" publishTime="05/16/2009 22:21:54" />
+    <file relUrl="App_Themes/images/_tskdesign spesific images/system/additionalCorner.jpg" publishTime="04/19/2009 21:48:00" />
+    <file relUrl="App_Themes/images/_rrart spesific images/Utstilling_GlesværCafeSotra_11.jpg" publishTime="03/05/2012 07:58:05" />
+    <file relUrl="bin/Recaptcha.dll" publishTime="12/14/2010 18:19:48" />
+    <file relUrl="bin/ArtistWebCatalog.pdb" publishTime="03/05/2012 08:04:33" />
+    <file relUrl="App_Themes/images/_rrart spesific images/noimage.jpg" publishTime="06/14/2009 14:35:22" />
+    <file relUrl="App_Themes/images/_tskdesign spesific images/system/logo.jpg" publishTime="06/11/2009 22:22:08" />
+    <file relUrl="App_Themes/images/_tskdesign spesific images/Ad.jpg" publishTime="10/06/2004 00:13:56" />
+    <file relUrl="App_Themes/images/smileys/applaus.gif" publishTime="05/17/2009 00:30:58" />
+    <file relUrl="App_Themes/images/_tskdesign spesific images/system/corner_bottomLeft.png" publishTime="04/19/2009 21:36:30" />
+    <file relUrl="ProductList.aspx" publishTime="12/16/2011 07:40:33" />
+    <file relUrl="guestbook.xml" publishTime="03/03/2011 09:36:53" />
+    <file relUrl="App_Themes/images/smileys/kanin.gif" publishTime="05/16/2009 22:20:46" />
+    <file relUrl="App_Themes/images/smileys/afro.gif" publishTime="05/17/2009 00:30:20" />
+    <file relUrl="App_Themes/images/lightview/close_innertop.png" publishTime="09/02/2008 13:08:00" />
+    <file relUrl="App_Themes/images/_rrart spesific images/background.jpg" publishTime="08/22/2009 11:17:08" />
+    <file relUrl="App_Themes/images/_rrart spesific images/Utstilling_GalleriS9_11.jpg" publishTime="06/03/2011 08:25:23" />
+    <file relUrl="App_Themes/images/lightview/controller_slideshow_play.png" publishTime="09/02/2008 13:08:00" />
+    <file relUrl="App_Themes/js/prototype.js" publishTime="06/02/2009 13:05:16" />
+    <file relUrl="App_Themes/images/_tskdesign spesific images/system/corner_topLeft.png" publishTime="04/19/2009 21:37:02" />
+  </publishProfile>
+</publishData>

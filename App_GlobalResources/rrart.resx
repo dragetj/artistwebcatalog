@@ -1,0 +1,413 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AboutMeBreadCrumb" xml:space="preserve">
+    <value>&lt;b&gt;&lt;a href="Default.aspx"&gt;Forside&lt;/a&gt;&lt;/b&gt; - Om meg</value>
+  </data>
+  <data name="AdminGuestbookDeleted" xml:space="preserve">
+    <value>Innlegget er nå slettet</value>
+  </data>
+  <data name="AdminGuestbookOutputDelete" xml:space="preserve">
+    <value>Fjern</value>
+  </data>
+  <data name="AdminProductInputAdd" xml:space="preserve">
+    <value>Produktinfo</value>
+  </data>
+  <data name="AdminProductInputAdded" xml:space="preserve">
+    <value>Varen ble lagret OK</value>
+  </data>
+  <data name="AdminProductInputCancel" xml:space="preserve">
+    <value>Avbryt</value>
+  </data>
+  <data name="AdminProductInputCategory" xml:space="preserve">
+    <value>Kategori</value>
+  </data>
+  <data name="AdminProductInputCategoryAdult" xml:space="preserve">
+    <value>Voksen</value>
+  </data>
+  <data name="AdminProductInputCategoryChild" xml:space="preserve">
+    <value>Barn</value>
+  </data>
+  <data name="AdminProductInputCategoryExText" xml:space="preserve">
+    <value>Eks. Ny kategori</value>
+  </data>
+  <data name="AdminProductInputDeleted" xml:space="preserve">
+    <value>Varen er nå slettet</value>
+  </data>
+  <data name="AdminProductInputEdit" xml:space="preserve">
+    <value>Editer produktinfo</value>
+  </data>
+  <data name="AdminProductInputFabric" xml:space="preserve">
+    <value>Type</value>
+  </data>
+  <data name="AdminProductInputFabricExText" xml:space="preserve">
+    <value>Eks. Ull (superwash)</value>
+  </data>
+  <data name="AdminProductInputImage" xml:space="preserve">
+    <value>Bilde</value>
+  </data>
+  <data name="AdminProductInputImageInfo" xml:space="preserve">
+    <value>For endring, velg nytt bilde.</value>
+  </data>
+  <data name="AdminProductInputLongText" xml:space="preserve">
+    <value>Bildetekst (detaljside)</value>
+  </data>
+  <data name="AdminProductInputLongTextExText" xml:space="preserve">
+    <value>Eks. Her kan du skrive en sjempelaaang tekst som sier noe om hvor fin denne kjolen egentlig er.
+
+Du kan også dele opp tekst i flere linjer.</value>
+  </data>
+  <data name="AdminProductInputPrice" xml:space="preserve">
+    <value>Pris</value>
+  </data>
+  <data name="AdminProductInputPriceExText" xml:space="preserve">
+    <value>Eks. 1200</value>
+  </data>
+  <data name="AdminProductInputSave" xml:space="preserve">
+    <value>Legg til</value>
+  </data>
+  <data name="AdminProductInputShortText" xml:space="preserve">
+    <value>Bildetekst (listeside)</value>
+  </data>
+  <data name="AdminProductInputShortTextExText" xml:space="preserve">
+    <value>Eks. Mål: 1 x 1 cm</value>
+  </data>
+  <data name="AdminProductInputSize" xml:space="preserve">
+    <value>Størrelse</value>
+  </data>
+  <data name="AdminProductInputStock" xml:space="preserve">
+    <value>Lagerstatus</value>
+  </data>
+  <data name="AdminProductInputTitle" xml:space="preserve">
+    <value>Tittel</value>
+  </data>
+  <data name="AdminProductInputTitleExText" xml:space="preserve">
+    <value>Eks. Nattsvermer</value>
+  </data>
+  <data name="AdminProductOutputDelete" xml:space="preserve">
+    <value>Fjern</value>
+  </data>
+  <data name="AdminProductOutputEdit" xml:space="preserve">
+    <value>Editer</value>
+  </data>
+  <data name="AdminProductOutputSizeAdult" xml:space="preserve">
+    <value>V</value>
+  </data>
+  <data name="AdminProductOutputSizeChild" xml:space="preserve">
+    <value>B</value>
+  </data>
+  <data name="AdminProductOutputSizeChildAdult" xml:space="preserve">
+    <value>B/V</value>
+  </data>
+  <data name="AdminProductOutputStock" xml:space="preserve">
+    <value>Lager status</value>
+  </data>
+  <data name="AdminProductUploadFileExist" xml:space="preserve">
+    <value>A file with the same name already exists.&lt;br /&gt;Your file was saved as </value>
+  </data>
+  <data name="AdminProductUploadFileOk" xml:space="preserve">
+    <value>Your file was uploaded successfully.</value>
+  </data>
+  <data name="ColorMap1" xml:space="preserve">
+    <value>Bomull</value>
+  </data>
+  <data name="ColorMap2" xml:space="preserve">
+    <value>Bomull_lin</value>
+  </data>
+  <data name="ColorMap3" xml:space="preserve">
+    <value>Bomull_perletvinn</value>
+  </data>
+  <data name="ColorMap4" xml:space="preserve">
+    <value>Ull</value>
+  </data>
+  <data name="ColorMapBreadCrumb" xml:space="preserve">
+    <value>&lt;b&gt;&lt;a href="Default.aspx"&gt;Forside&lt;/a&gt;&lt;/b&gt; - Fargekart</value>
+  </data>
+  <data name="CommonCategoryAdult" xml:space="preserve">
+    <value>Voksen</value>
+  </data>
+  <data name="CommonCategoryChild" xml:space="preserve">
+    <value>Barn</value>
+  </data>
+  <data name="CommonCategoryChildAdult" xml:space="preserve">
+    <value>Barn/Voksen</value>
+  </data>
+  <data name="CommonPrice" xml:space="preserve">
+    <value>Pris: </value>
+  </data>
+  <data name="CommonPriceSuffix" xml:space="preserve">
+    <value>kr</value>
+  </data>
+  <data name="CommonStockNo" xml:space="preserve">
+    <value>Solgt</value>
+  </data>
+  <data name="CommonStockYes" xml:space="preserve">
+    <value>Til salgs</value>
+  </data>
+  <data name="ContactAddress" xml:space="preserve">
+    <value>3540 Nesbyen</value>
+  </data>
+  <data name="ContactBreadCrumb" xml:space="preserve">
+    <value>&lt;b&gt;&lt;a href="Default.aspx"&gt;Forside&lt;/a&gt;&lt;/b&gt; - Kontakt</value>
+  </data>
+  <data name="ContactEmail" xml:space="preserve">
+    <value>rdraget@hotmail.com</value>
+  </data>
+  <data name="ContactName" xml:space="preserve">
+    <value>Roselind Risan Draget</value>
+  </data>
+  <data name="ContactPhone" xml:space="preserve">
+    <value>95173624</value>
+  </data>
+  <data name="DefaultBreadCrumb" xml:space="preserve">
+    <value />
+  </data>
+  <data name="DefaultInfoText" xml:space="preserve">
+    <value>&lt;p&gt;DE FEM FRIHETER&lt;/p&gt;&lt;p&gt;Friheten til å se og høre det som er&lt;br /&gt;isteden for det som burde være, var&lt;br /&gt;eller kommer til å bli.&lt;/p&gt;&lt;p&gt;Friheten til å føle som du gjør&lt;br /&gt;isteden for det du burde.&lt;/p&gt;&lt;p&gt;Friheten til å si det du tenker og føler&lt;br /&gt;isteden for det du burde tenke og føle.&lt;/p&gt;&lt;p&gt;Friheten til å be om det du ønsker&lt;br /&gt;isteden for å vente og se om du får det.&lt;/p&gt;&lt;p&gt;Friheten til å ta sjanser på egne vegne&lt;br /&gt;isteden for alltid å være på den sikre siden.&lt;/p&gt;&lt;p&gt;Virginia Satir&lt;/p&gt;</value>
+  </data>
+  <data name="ExhibitionsBreadCrumb" xml:space="preserve">
+    <value>&lt;b&gt;&lt;a href="Default.aspx"&gt;Forside&lt;/a&gt;&lt;/b&gt; - Utstillinger</value>
+  </data>
+  <data name="GuestbookBreadCrumb" xml:space="preserve">
+    <value>&lt;b&gt;&lt;a href="Default.aspx"&gt;Forside&lt;/a&gt;&lt;/b&gt; - Gjestebok</value>
+  </data>
+  <data name="GuestbookEmail" xml:space="preserve">
+    <value>E-post</value>
+  </data>
+  <data name="GuestbookName" xml:space="preserve">
+    <value>Navn</value>
+  </data>
+  <data name="GuestbookSave" xml:space="preserve">
+    <value>Legg til innlegg</value>
+  </data>
+  <data name="GuestbookSmileys" xml:space="preserve">
+    <value>Trykk på smiley for å inkludere i teksten - bildet vil bli synlig etter at innlegget er lagt til.</value>
+  </data>
+  <data name="GuestbookText" xml:space="preserve">
+    <value>Beskjed</value>
+  </data>
+  <data name="MasterPageAboutMeLink" xml:space="preserve">
+    <value>Om meg</value>
+  </data>
+  <data name="MasterPageColorMapLink" xml:space="preserve">
+    <value>Fargekart</value>
+  </data>
+  <data name="MasterPageContactLink" xml:space="preserve">
+    <value>Kontakt</value>
+  </data>
+  <data name="MasterPageExhibitionsLink" xml:space="preserve">
+    <value>Utstillinger</value>
+  </data>
+  <data name="MasterPageGuestbookLink" xml:space="preserve">
+    <value>Gjestebok</value>
+  </data>
+  <data name="MasterPageProductLink" xml:space="preserve">
+    <value>Produkter</value>
+  </data>
+  <data name="ProductDetailBreadCrumb" xml:space="preserve">
+    <value>&lt;b&gt;&lt;a href="Default.aspx"&gt;Forside&lt;/a&gt;&lt;/b&gt; - &lt;b&gt;&lt;a href="ProductList.aspx"&gt;Produktliste&lt;/a&gt;&lt;/b&gt; - Produktdetalj</value>
+  </data>
+  <data name="ProductDetailPicture" xml:space="preserve">
+    <value>Trykk på bildet for å se det i full størrelse.</value>
+  </data>
+  <data name="ProductDetailSize" xml:space="preserve">
+    <value>Varen finnes i størrelse: </value>
+  </data>
+  <data name="ProductDetailWash" xml:space="preserve">
+    <value>Produktet er laget av </value>
+  </data>
+  <data name="ProductDetailWash_Bomull" xml:space="preserve">
+    <value>Maskinvask 60 grader. Henges til tørk.</value>
+  </data>
+  <data name="ProductDetailWash_Bomull_lin" xml:space="preserve">
+    <value>Maskinvask 60 grader. Henges til tørk.</value>
+  </data>
+  <data name="ProductDetailWash_Kamgarn" xml:space="preserve">
+    <value>Håndvask 30 grader. Tørkes flatt.</value>
+  </data>
+  <data name="ProductDetailWash_Ull" xml:space="preserve">
+    <value>Håndvask 30 grader. Tørkes flatt.</value>
+  </data>
+  <data name="ProductDetailWash_Ull_superwash" xml:space="preserve">
+    <value>Maskinvask 40 grader ullprogram. Tørkes flatt.</value>
+  </data>
+  <data name="ProductListBreadCrumb" xml:space="preserve">
+    <value>&lt;b&gt;&lt;a href="Default.aspx"&gt;Forside&lt;/a&gt;&lt;/b&gt; - Produktliste</value>
+  </data>
+  <data name="ProductListSlideshow" xml:space="preserve">
+    <value>Trykk her for å&lt;br /&gt; starte fremvisning</value>
+  </data>
+  <data name="GuestbookEntryTitle" xml:space="preserve">
+    <value>Skriv innlegg</value>
+  </data>
+  <data name="ColorMap5" xml:space="preserve">
+    <value>Ull_superwash</value>
+  </data>
+  <data name="ColorMap6" xml:space="preserve">
+    <value>Kamgarn</value>
+  </data>
+  <data name="ProductDetailWash_Bomull_perletvinn" xml:space="preserve">
+    <value>Maskinvask 60 grader. Henges til tørk.</value>
+  </data>
+  <data name="ContactInfo" xml:space="preserve">
+    <value>Ønsker du å bestille noen av produktene kan jeg kontaktes på telefon eller mail:</value>
+  </data>
+  <data name="MasterPageLogoText" xml:space="preserve">
+    <value>Roselind Risan Art</value>
+  </data>
+  <data name="AboutMeInfo" xml:space="preserve">
+    <value>&lt;p&gt;Jeg er bosatt på Nesbyen i Hallingdal sammen med min mann og yngste sønn. Nå er jeg ansatt i Nes Kommune hvor jeg jobber som omsorgsarbeider i en deltidsstilling.&lt;/p&gt;&lt;p&gt;Maling har jeg som hobby. For noen år siden var jeg inne i en periode av livet hvor jeg trengte å gi uttrykk for en del følelser og tanker som var sentralt i livet mitt akkurat da. Malingen ble en uttrykksform og den gir meg energi og inspirasjon. Inspirasjonen henter jeg fra opplevelser, drømmer, stemninger og andre bilder. Jeg prøver å utvikle og forbedre mine evner ved å male mye og også gå på kurs. Selv om ikke energien alltid er tilstede kommer den gjerne når jeg er i gang med penselen.&lt;/p&gt;&lt;p&gt;Tilbakemeldingene jeg får er positive og jeg selger mine bilder til de som ønsker å kjøpe. Jeg maler med akrylmaling. Fargene er vesentlig i mitt arbeid – de må ha en varm tone i seg. Mange av motivene i bildene har en underliggende betydning.&lt;/p&gt;&lt;p&gt;Hva man liker å ha på veggen hjemme dreier seg om ulik smak – som er subjektivt. Jeg synes ikke at vi skal vurdere kunst ut fra hva som er bra eller dårlig. Jeg vil helst vurdere det ut fra hva jeg synes er pent eller hva som appellerer til meg. Det er ”øyet som ser” i enhver situasjon. Jeg føler at jeg får energi og kraft gjennom farger samtidig som å male blir en form for terapi fordi jeg gjennom prosessen jobber med følelser knyttet til det motivet jeg jobber med.&lt;/p&gt;&lt;p&gt;Jeg håper at mine bilder kan gi deg energi og en positiv opplevelse.&lt;/p&gt;</value>
+  </data>
+  <data name="Exhibitions2" xml:space="preserve">
+    <value>Utstilling Galleri Nystugu (Nesbyen) 2010</value>
+  </data>
+  <data name="Exhibitions3" xml:space="preserve">
+    <value>Utstilling Ringerike Kultursenter 2010</value>
+  </data>
+  <data name="Exhibitions4" xml:space="preserve">
+    <value>Utstilling Ål Kulturhus 2010</value>
+  </data>
+  <data name="Exhibitions5" xml:space="preserve">
+    <value>Utstilling Vestfoldmessen 2009</value>
+  </data>
+  <data name="ExhibitionsFurtherPlans" xml:space="preserve">
+    <value>Planlagte utstillinger 2012:&lt;br/&gt;Galleri Nystugu høst 2012</value>
+  </data>
+  <data name="AdminProductInputErrorPrice" xml:space="preserve">
+    <value>Pris må angis med tallene 0-9.</value>
+  </data>
+  <data name="ProductListNumberOfProducts" xml:space="preserve">
+    <value>Antall produkter: </value>
+  </data>
+  <data name="Exhibitions6" xml:space="preserve">
+    <value>Utstilling Kjerringtorget 2008</value>
+  </data>
+  <data name="Exhibitions7" xml:space="preserve">
+    <value>Utstilling Vikersund 2007</value>
+  </data>
+  <data name="Exhibitions8" xml:space="preserve">
+    <value>Utstilling Glesvær Cafè Sotra 2011</value>
+  </data>
+  <data name="Exhibitions9" xml:space="preserve">
+    <value>Utstilling Galleri Gol 2011</value>
+  </data>
+  <data name="Exhibitions1" xml:space="preserve">
+    <value>Utstilling Galleri S9 (Oslo) 2011</value>
+  </data>
+</root>

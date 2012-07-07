@@ -1,0 +1,42 @@
+Exhibitions9] is missing! Message: Object reference not set to an instance of an object.
+Exhibitions9] is missing! Message: Object reference not set to an instance of an object.
+Exhibitions9] is missing! Message: Object reference not set to an instance of an object.
+Exhibitions9] is missing! Message: Object reference not set to an instance of an object.
+Error on Admin (product) row deleting! Message: Unable to find the specified file., Stack:    at ArtistWebCatalog.Admin.gvProducts_RowDeleting(Object sender, GridViewDeleteEventArgs e) in C:\Projects\ArtistWebCatalog\Admin.aspx.cs:line 310
+Error on Admin (product) row deleting! Message: Unable to find the specified file., Stack:    at ArtistWebCatalog.Admin.gvProducts_RowDeleting(Object sender, GridViewDeleteEventArgs e) in C:\Projects\ArtistWebCatalog\Admin.aspx.cs:line 309
+Error on Admin (product) row deleting! Message: Unable to find the specified file., Stack:    at ArtistWebCatalog.Admin.gvProducts_RowDeleting(Object sender, GridViewDeleteEventArgs e) in C:\Projects\ArtistWebCatalog\Admin.aspx.cs:line 309
+Error on Admin (product) row deleting! Message: Unable to find the specified file., Stack:    at ArtistWebCatalog.Admin.gvProducts_RowDeleting(Object sender, GridViewDeleteEventArgs e) in C:\Projects\ArtistWebCatalog\Admin.aspx.cs:line 309
+Error on Admin (product) row deleting! Message: Unable to find the specified file., Stack:    at ArtistWebCatalog.Admin.gvProducts_RowDeleting(Object sender, GridViewDeleteEventArgs e) in C:\Projects\ArtistWebCatalog\Admin.aspx.cs:line 309
+Error on Admin (product) row deleting! Message: Unable to find the specified file., Stack:    at ArtistWebCatalog.Admin.gvProducts_RowDeleting(Object sender, GridViewDeleteEventArgs e) in C:\Projects\ArtistWebCatalog\Admin.aspx.cs:line 309
+Error on Admin (product) row deleting! Message: Unable to find the specified file., Stack:    at ArtistWebCatalog.Admin.gvProducts_RowDeleting(Object sender, GridViewDeleteEventArgs e) in C:\Projects\ArtistWebCatalog\Admin.aspx.cs:line 309
+Error on Admin (product) row deleting! Message: Unable to find the specified file., Stack:    at ArtistWebCatalog.Admin.gvProducts_RowDeleting(Object sender, GridViewDeleteEventArgs e) in C:\Projects\ArtistWebCatalog\Admin.aspx.cs:line 309
+Error on Admin (product) row deleting! Message: Unable to find the specified file., Stack:    at ArtistWebCatalog.Admin.gvProducts_RowDeleting(Object sender, GridViewDeleteEventArgs e) in C:\Projects\ArtistWebCatalog\Admin.aspx.cs:line 309
+Error on Admin (product) row deleting! Message: Unable to find the specified file., Stack:    at ArtistWebCatalog.Admin.gvProducts_RowDeleting(Object sender, GridViewDeleteEventArgs e) in C:\Projects\ArtistWebCatalog\Admin.aspx.cs:line 309
+Error on Admin (product) row deleting! Message: Unable to find the specified file., Stack:    at ArtistWebCatalog.Admin.gvProducts_RowDeleting(Object sender, GridViewDeleteEventArgs e) in C:\Projects\ArtistWebCatalog\Admin.aspx.cs:line 312
+Error on Admin (product) row deleting! Message: Unable to find the specified file., Stack:    at ArtistWebCatalog.Admin.gvProducts_RowDeleting(Object sender, GridViewDeleteEventArgs e) in C:\Projects\ArtistWebCatalog\Admin.aspx.cs:line 312
+Error on Admin (product) row deleting! Message: Unable to find the specified file., Stack:    at ArtistWebCatalog.Admin.gvProducts_RowDeleting(Object sender, GridViewDeleteEventArgs e) in C:\Projects\ArtistWebCatalog\Admin.aspx.cs:line 312
+Error on Admin (product) row deleting! Message: Unable to find the specified file., Stack:    at ArtistWebCatalog.Admin.gvProducts_RowDeleting(Object sender, GridViewDeleteEventArgs e) in C:\Projects\ArtistWebCatalog\Admin.aspx.cs:line 313
+Error on Admin (product) row deleting! Message: Unable to find the specified file., Stack:    at ArtistWebCatalog.Admin.gvProducts_RowDeleting(Object sender, GridViewDeleteEventArgs e) in C:\Projects\ArtistWebCatalog\Admin.aspx.cs:line 313
+Error on Admin (product) row deleting! Message: Unable to find the specified file., Stack:    at ArtistWebCatalog.Admin.gvProducts_RowDeleting(Object sender, GridViewDeleteEventArgs e) in C:\Projects\ArtistWebCatalog\Admin.aspx.cs:line 313
+Error on Admin (product) row deleting! Message: Unable to find the specified file., Stack:    at ArtistWebCatalog.Admin.gvProducts_RowDeleting(Object sender, GridViewDeleteEventArgs e) in C:\Projects\ArtistWebCatalog\Admin.aspx.cs:line 313
+Error on Admin (product) row deleting! Message: Unable to find the specified file., Stack:    at ArtistWebCatalog.Admin.gvProducts_RowDeleting(Object sender, GridViewDeleteEventArgs e) in C:\Projects\ArtistWebCatalog\Admin.aspx.cs:line 313
+Error on Admin (product) row deleting! Message: Unable to find the specified file., Stack:    at ArtistWebCatalog.Admin.gvProducts_RowDeleting(Object sender, GridViewDeleteEventArgs e) in C:\Projects\ArtistWebCatalog\Admin.aspx.cs:line 313
+ProductDetailWash_] is missing! Message: Object reference not set to an instance of an object.
+ProductDetailWash_] is missing! Message: Object reference not set to an instance of an object.
+ProductDetailWash_] is missing! Message: Object reference not set to an instance of an object.
+ProductDetailWash_] is missing! Message: Object reference not set to an instance of an object.
+ProductDetailWash_] is missing! Message: Object reference not set to an instance of an object.
+ProductDetailWash_] is missing! Message: Object reference not set to an instance of an object.
+ProductDetailWash_] is missing! Message: Object reference not set to an instance of an object.
+ProductDetailWash_] is missing! Message: Object reference not set to an instance of an object.
+ProductDetailWash_] is missing! Message: Object reference not set to an instance of an object.
+ProductDetailWash_] is missing! Message: Object reference not set to an instance of an object.
+ProductDetailWash_] is missing! Message: Object reference not set to an instance of an object.
+ProductDetailWash_] is missing! Message: Object reference not set to an instance of an object.
+ProductDetailWash_] is missing! Message: Object reference not set to an instance of an object.
+ProductDetailWash_] is missing! Message: Object reference not set to an instance of an object.
+ProductDetailWash_] is missing! Message: Object reference not set to an instance of an object.
+ProductDetailWash_] is missing! Message: Object reference not set to an instance of an object.
+ProductDetailWash_] is missing! Message: Object reference not set to an instance of an object.
+ProductDetailWash_] is missing! Message: Object reference not set to an instance of an object.
+ProductDetailWash_] is missing! Message: Object reference not set to an instance of an object.

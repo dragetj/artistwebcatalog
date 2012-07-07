@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+
+  <Ad>
+    <ImageUrl>App_Themes\images\Ad.jpg</ImageUrl>
+    <NavigateUrl></NavigateUrl>
+    <AlternateText></AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>Product1</Keyword>
+  </Ad>
+
+</Advertisements>

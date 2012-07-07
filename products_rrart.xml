@@ -1,0 +1,603 @@
+<?xml version="1.0"?>
+<ProductCatalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Products>
+    <Product>
+      <Id>6cdd746f-ac45-4037-a7fe-f8f41827d676</Id>
+      <Title>Fordeling av verdens goder</Title>
+      <ShortText>Mål: 100 x 72 cm</ShortText>
+      <LongText />
+      <Image>nr.1.jpg</Image>
+      <Stock>false</Stock>
+      <Price>0</Price>
+      <Category />
+      <CategoryChild>false</CategoryChild>
+      <CategoryAdult>false</CategoryAdult>
+      <Fabric />
+    </Product>
+    <Product>
+      <Id>ccc73a11-11d1-4b0a-8dd1-3e867cd626f1</Id>
+      <Title>Påfyll av energi</Title>
+      <ShortText>Mål: 100 x 72 cm</ShortText>
+      <LongText />
+      <Image>nr.2.jpg</Image>
+      <Stock>false</Stock>
+      <Price>0</Price>
+      <Category />
+      <CategoryChild>false</CategoryChild>
+      <CategoryAdult>false</CategoryAdult>
+      <Fabric />
+    </Product>
+    <Product>
+      <Id>ca1c6e18-dff1-4765-b328-b71de8dab7aa</Id>
+      <Title>Mot lysere tider</Title>
+      <ShortText>Mål: 63 x 74 cm</ShortText>
+      <LongText />
+      <Image>nr.3.jpg</Image>
+      <Stock>true</Stock>
+      <Price>2900</Price>
+      <Category />
+      <CategoryChild>false</CategoryChild>
+      <CategoryAdult>false</CategoryAdult>
+      <Fabric />
+    </Product>
+    <Product>
+      <Id>b1892e08-92f5-45bb-a845-e279491336d2</Id>
+      <Title>Skogsopplevelser</Title>
+      <ShortText>Mål: 53 x 63 cm</ShortText>
+      <LongText />
+      <Image>nr.4.jpg</Image>
+      <Stock>true</Stock>
+      <Price>1900</Price>
+      <Category />
+      <CategoryChild>false</CategoryChild>
+      <CategoryAdult>false</CategoryAdult>
+      <Fabric />
+    </Product>
+    <Product>
+      <Id>af804693-6aa4-4710-b7bc-a54eabf4b311</Id>
+      <Title>Fiskene</Title>
+      <ShortText>Mål: 50 x 50 cm</ShortText>
+      <LongText />
+      <Image>nr.5.jpg</Image>
+      <Stock>false</Stock>
+      <Price>0</Price>
+      <Category />
+      <CategoryChild>false</CategoryChild>
+      <CategoryAdult>false</CategoryAdult>
+      <Fabric />
+    </Product>
+    <Product>
+      <Id>cf56b989-f1e0-4acb-a8e7-a7cb2d527d1d</Id>
+      <Title>Bølgen</Title>
+      <ShortText>Mål: 50 x 50 cm</ShortText>
+      <LongText />
+      <Image>nr.6.jpg</Image>
+      <Stock>false</Stock>
+      <Price>0</Price>
+      <Category />
+      <CategoryChild>false</CategoryChild>
+      <CategoryAdult>false</CategoryAdult>
+      <Fabric />
+    </Product>
+    <Product>
+      <Id>9fc4d2b8-d95e-40cd-b474-be9e01bfeb26</Id>
+      <Title>Ingen tittel</Title>
+      <ShortText>Mål: 53 x 73 cm</ShortText>
+      <LongText />
+      <Image>nr.7.jpg</Image>
+      <Stock>true</Stock>
+      <Price>1900</Price>
+      <Category />
+      <CategoryChild>false</CategoryChild>
+      <CategoryAdult>false</CategoryAdult>
+      <Fabric />
+    </Product>
+    <Product>
+      <Id>540d300c-83b6-4cfb-a64a-fd787665321b</Id>
+      <Title>Ingen tittel</Title>
+      <ShortText>Mål: 30 x 90 cm</ShortText>
+      <LongText />
+      <Image>nr.8.jpg</Image>
+      <Stock>true</Stock>
+      <Price>1100</Price>
+      <Category />
+      <CategoryChild>false</CategoryChild>
+      <CategoryAdult>false</CategoryAdult>
+      <Fabric />
+    </Product>
+    <Product>
+      <Id>e66b7912-704a-45b2-9f6f-620918b13bda</Id>
+      <Title>Strukket i begge ender</Title>
+      <ShortText>Mål: 30 x 90 cm</ShortText>
+      <LongText />
+      <Image>nr.9.jpg</Image>
+      <Stock>false</Stock>
+      <Price>0</Price>
+      <Category />
+      <CategoryChild>false</CategoryChild>
+      <CategoryAdult>false</CategoryAdult>
+      <Fabric />
+    </Product>
+    <Product>
+      <Id>308d57dd-2e84-48cc-9078-a7e16c89d2d0</Id>
+      <Title>Splittelse</Title>
+      <ShortText>Mål: 50 x 50 cm</ShortText>
+      <LongText />
+      <Image>nr.10.jpg</Image>
+      <Stock>false</Stock>
+      <Price>0</Price>
+      <Category />
+      <CategoryChild>false</CategoryChild>
+      <CategoryAdult>false</CategoryAdult>
+      <Fabric />
+    </Product>
+    <Product>
+      <Id>e84c7805-53c7-4fe7-b969-cd2864d979d9</Id>
+      <Title>Småbarnsmor</Title>
+      <ShortText />
+      <LongText />
+      <Image>nr.11.jpg</Image>
+      <Stock>false</Stock>
+      <Price>0</Price>
+      <Category />
+      <CategoryChild>false</CategoryChild>
+      <CategoryAdult>false</CategoryAdult>
+      <Fabric />
+    </Product>
+    <Product>
+      <Id>9ca3197d-58da-4fed-8ee3-8ee521d2414a</Id>
+      <Title>Påfyll av energi</Title>
+      <ShortText>Mål: 90 x 70 cm</ShortText>
+      <LongText />
+      <Image>nr.12.jpg</Image>
+      <Stock>false</Stock>
+      <Price>0</Price>
+      <Category />
+      <CategoryChild>false</CategoryChild>
+      <CategoryAdult>false</CategoryAdult>
+      <Fabric />
+    </Product>
+    <Product>
+      <Id>3b3f1516-8da2-45c3-aab9-442bfbea7f83</Id>
+      <Title>Fri flyt</Title>
+      <ShortText>Mål: 73 x 53 cm</ShortText>
+      <LongText />
+      <Image>nr.13.jpg</Image>
+      <Stock>false</Stock>
+      <Price>0</Price>
+      <Category />
+      <CategoryChild>false</CategoryChild>
+      <CategoryAdult>false</CategoryAdult>
+      <Fabric />
+    </Product>
+    <Product>
+      <Id>070c95ad-dd2f-4acf-958a-85afef77038f</Id>
+      <Title>Før stormen</Title>
+      <ShortText>Mål: 50 x 61 cm</ShortText>
+      <LongText />
+      <Image>nr.14.jpg</Image>
+      <Stock>false</Stock>
+      <Price>0</Price>
+      <Category />
+      <CategoryChild>false</CategoryChild>
+      <CategoryAdult>false</CategoryAdult>
+      <Fabric />
+    </Product>
+    <Product>
+      <Id>c00ec96f-80c7-47cb-9b23-7c6fdf377d74</Id>
+      <Title> Samliv</Title>
+      <ShortText>Mål: 53 x 63 cm-selges sammen med Overlevelse</ShortText>
+      <LongText />
+      <Image>nr.15.jpg</Image>
+      <Stock>true</Stock>
+      <Price>3800</Price>
+      <Category />
+      <CategoryChild>false</CategoryChild>
+      <CategoryAdult>false</CategoryAdult>
+      <Fabric />
+    </Product>
+    <Product>
+      <Id>8ad73aa2-11ab-46f3-92f4-dfee34937f6f</Id>
+      <Title> Overlevelse</Title>
+      <ShortText>Mål: 63 x 75 cm - selges sammen med Samliv</ShortText>
+      <LongText />
+      <Image>nr.16.jpg</Image>
+      <Stock>true</Stock>
+      <Price>0</Price>
+      <Category />
+      <CategoryChild>false</CategoryChild>
+      <CategoryAdult>false</CategoryAdult>
+      <Fabric />
+    </Product>
+    <Product>
+      <Id>6ef8c654-912b-493c-8fba-b953aff680e7</Id>
+      <Title>Klippen</Title>
+      <ShortText>Mål: 80 x 60 cm</ShortText>
+      <LongText />
+      <Image>nr.17.jpg</Image>
+      <Stock>false</Stock>
+      <Price>0</Price>
+      <Category />
+      <CategoryChild>false</CategoryChild>
+      <CategoryAdult>false</CategoryAdult>
+      <Fabric />
+    </Product>
+    <Product>
+      <Id>c6dfbcdc-a442-428c-97ce-944dc1c50e4c</Id>
+      <Title>Ensomhet</Title>
+      <ShortText>Mål: 30 x 90 cm</ShortText>
+      <LongText />
+      <Image>nr.18.jpg</Image>
+      <Stock>true</Stock>
+      <Price>1500</Price>
+      <Category />
+      <CategoryChild>false</CategoryChild>
+      <CategoryAdult>false</CategoryAdult>
+      <Fabric />
+    </Product>
+    <Product>
+      <Id>72eff010-5b2c-4e46-bd6f-b8bc177a3048</Id>
+      <Title>Delt styrke</Title>
+      <ShortText>Mål: 30 x 90 cm x 2</ShortText>
+      <LongText />
+      <Image>nr.19.jpg</Image>
+      <Stock>true</Stock>
+      <Price>2200</Price>
+      <Category />
+      <CategoryChild>false</CategoryChild>
+      <CategoryAdult>false</CategoryAdult>
+      <Fabric />
+    </Product>
+    <Product>
+      <Id>47af7ac0-c9a9-446d-a31b-62534dcbb145</Id>
+      <Title>Rosen</Title>
+      <ShortText>Mål: 50 x 50 cm</ShortText>
+      <LongText />
+      <Image>nr.20.jpg</Image>
+      <Stock>true</Stock>
+      <Price>1200</Price>
+      <Category />
+      <CategoryChild>false</CategoryChild>
+      <CategoryAdult>false</CategoryAdult>
+      <Fabric />
+    </Product>
+    <Product>
+      <Id>224e6095-b7a2-4837-b1d7-b1d9fe8a79be</Id>
+      <Title>En annen dimensjon</Title>
+      <ShortText>Mål: 64 x 84 cm</ShortText>
+      <LongText />
+      <Image>nr.21.jpg</Image>
+      <Stock>true</Stock>
+      <Price>3000</Price>
+      <Category />
+      <CategoryChild>false</CategoryChild>
+      <CategoryAdult>false</CategoryAdult>
+      <Fabric />
+    </Product>
+    <Product>
+      <Id>cc7655f5-48af-4c14-a081-d8c1fbb1965e</Id>
+      <Title>Før stormen</Title>
+      <ShortText>Mål: 60 x 46 cm</ShortText>
+      <LongText />
+      <Image>nr.22.jpg</Image>
+      <Stock>true</Stock>
+      <Price>1100</Price>
+      <Category />
+      <CategoryChild>false</CategoryChild>
+      <CategoryAdult>false</CategoryAdult>
+      <Fabric />
+    </Product>
+    <Product>
+      <Id>dc23e277-c0c0-4d97-b74a-e1b6ca583dd6</Id>
+      <Title>Brent</Title>
+      <ShortText>Mål: 46 x 60 cm</ShortText>
+      <LongText />
+      <Image>nr.23.jpg</Image>
+      <Stock>true</Stock>
+      <Price>1300</Price>
+      <Category />
+      <CategoryChild>false</CategoryChild>
+      <CategoryAdult>false</CategoryAdult>
+      <Fabric />
+    </Product>
+    <Product>
+      <Id>0ca8be5f-64d2-4e09-8c8a-7b90d3a4f2d0</Id>
+      <Title>Påfyll av energi</Title>
+      <ShortText>Mål: 60 x 80 cm</ShortText>
+      <LongText />
+      <Image>nr.24.jpg</Image>
+      <Stock>true</Stock>
+      <Price>1300</Price>
+      <Category />
+      <CategoryChild>false</CategoryChild>
+      <CategoryAdult>false</CategoryAdult>
+      <Fabric />
+    </Product>
+    <Product>
+      <Id>3591ec50-278c-4160-b922-16e4dd454e74</Id>
+      <Title>Påfyll av energi</Title>
+      <ShortText>Mål: 100 x 72 cm</ShortText>
+      <LongText />
+      <Image>nr.25.jpg</Image>
+      <Stock>false</Stock>
+      <Price>0</Price>
+      <Category />
+      <CategoryChild>false</CategoryChild>
+      <CategoryAdult>false</CategoryAdult>
+      <Fabric />
+    </Product>
+    <Product>
+      <Id>78976e6f-02ce-4ce5-8838-457d749468d1</Id>
+      <Title>Universet</Title>
+      <ShortText>Mål: 50 x 50 cm x 2</ShortText>
+      <LongText />
+      <Image>nr.26.jpg</Image>
+      <Stock>true</Stock>
+      <Price>2000</Price>
+      <Category />
+      <CategoryChild>false</CategoryChild>
+      <CategoryAdult>false</CategoryAdult>
+      <Fabric />
+    </Product>
+    <Product>
+      <Id>5da1efa9-57ec-4147-a663-d5f90c89904f</Id>
+      <Title>Savn</Title>
+      <ShortText>Mål: 30 x 90 cm</ShortText>
+      <LongText />
+      <Image>nr.27.jpg</Image>
+      <Stock>false</Stock>
+      <Price>0</Price>
+      <Category />
+      <CategoryChild>false</CategoryChild>
+      <CategoryAdult>false</CategoryAdult>
+      <Fabric />
+    </Product>
+    <Product>
+      <Id>f94b8738-a354-4064-8ec4-638ee4ebef4c</Id>
+      <Title>Ingen tittel</Title>
+      <ShortText>Mål: 30 x 30 cm x 2</ShortText>
+      <LongText />
+      <Image>nr.28.jpg</Image>
+      <Stock>true</Stock>
+      <Price>900</Price>
+      <Category />
+      <CategoryChild>false</CategoryChild>
+      <CategoryAdult>false</CategoryAdult>
+      <Fabric />
+    </Product>
+    <Product>
+      <Id>a58813e2-0130-466a-8eff-acb5c6053e51</Id>
+      <Title>Ingen tittel</Title>
+      <ShortText>Mål: 50 x 50 cm x 2</ShortText>
+      <LongText />
+      <Image>nr.29.jpg</Image>
+      <Stock>true</Stock>
+      <Price>3000</Price>
+      <Category />
+      <CategoryChild>false</CategoryChild>
+      <CategoryAdult>false</CategoryAdult>
+      <Fabric />
+    </Product>
+    <Product>
+      <Id>135a9a1d-d116-46e9-a387-bf54f677a7f6</Id>
+      <Title>Sjelevenn</Title>
+      <ShortText>Mål: 50 x 50 cm x 2</ShortText>
+      <LongText />
+      <Image>nr.30.jpg</Image>
+      <Stock>false</Stock>
+      <Price>0</Price>
+      <Category />
+      <CategoryChild>false</CategoryChild>
+      <CategoryAdult>false</CategoryAdult>
+      <Fabric />
+    </Product>
+    <Product>
+      <Id>67a5da12-4bd7-4ec7-a5f1-02dac7c27245</Id>
+      <Title>Det ufødte liv</Title>
+      <ShortText>Mål: 44 x 44 cm</ShortText>
+      <LongText />
+      <Image>nr.31.jpg</Image>
+      <Stock>true</Stock>
+      <Price>1500</Price>
+      <Category />
+      <CategoryChild>false</CategoryChild>
+      <CategoryAdult>false</CategoryAdult>
+      <Fabric />
+    </Product>
+    <Product>
+      <Id>98ca22ea-dac8-4383-b8b2-7edd23bd6ed0</Id>
+      <Title>Fordeling av verdens goder</Title>
+      <ShortText>Mål: 100 x 72 cm</ShortText>
+      <LongText />
+      <Image>IMG_0001.jpg</Image>
+      <Stock>true</Stock>
+      <Price>3000</Price>
+      <Category />
+      <CategoryChild>false</CategoryChild>
+      <CategoryAdult>false</CategoryAdult>
+      <Fabric />
+    </Product>
+    <Product>
+      <Id>2f362fc3-d239-4b13-95d9-eb13babdcbdd</Id>
+      <Title>Åpning</Title>
+      <ShortText>Mål: 50 x 40 cm</ShortText>
+      <LongText />
+      <Image>nr.322.jpg</Image>
+      <Stock>true</Stock>
+      <Price>1200</Price>
+      <Category />
+      <CategoryChild>false</CategoryChild>
+      <CategoryAdult>false</CategoryAdult>
+      <Fabric />
+    </Product>
+    <Product>
+      <Id>6914348d-ee90-4b7f-b497-330d7c4484a1</Id>
+      <Title>Ingen tittel</Title>
+      <ShortText>Mål: 20 x 51cm</ShortText>
+      <LongText />
+      <Image>nr.33.jpg</Image>
+      <Stock>true</Stock>
+      <Price>500</Price>
+      <Category />
+      <CategoryChild>false</CategoryChild>
+      <CategoryAdult>false</CategoryAdult>
+      <Fabric />
+    </Product>
+    <Product>
+      <Id>8378f8de-94f0-4977-9f64-72704bddb577</Id>
+      <Title>Ingen tittel</Title>
+      <ShortText>Mål: 20 x 51cm</ShortText>
+      <LongText />
+      <Image>nr.34.jpg</Image>
+      <Stock>true</Stock>
+      <Price>500</Price>
+      <Category />
+      <CategoryChild>false</CategoryChild>
+      <CategoryAdult>false</CategoryAdult>
+      <Fabric />
+    </Product>
+    <Product>
+      <Id>d3f0cd47-2c15-44f5-bd45-e91b347fbc42</Id>
+      <Title>Ingen tittel</Title>
+      <ShortText>Mål: 59 x 72 cm</ShortText>
+      <LongText />
+      <Image>nr.352.jpg</Image>
+      <Stock>true</Stock>
+      <Price>1500</Price>
+      <Category />
+      <CategoryChild>false</CategoryChild>
+      <CategoryAdult>false</CategoryAdult>
+      <Fabric />
+    </Product>
+    <Product>
+      <Id>96f2e051-65f0-4765-891e-d901b45d5952</Id>
+      <Title>Ingen tittel</Title>
+      <ShortText>Mål: 30 x 90 cm</ShortText>
+      <LongText />
+      <Image>nr.37.jpg</Image>
+      <Stock>true</Stock>
+      <Price>1500</Price>
+      <Category />
+      <CategoryChild>false</CategoryChild>
+      <CategoryAdult>false</CategoryAdult>
+      <Fabric />
+    </Product>
+    <Product>
+      <Id>2d33e905-3402-4207-8b98-e5870ca1da06</Id>
+      <Title>Ulven hyler</Title>
+      <ShortText>Mål: 59 x 72 cm</ShortText>
+      <LongText />
+      <Image>nr.38.jpg</Image>
+      <Stock>true</Stock>
+      <Price>3000</Price>
+      <Category />
+      <CategoryChild>false</CategoryChild>
+      <CategoryAdult>false</CategoryAdult>
+      <Fabric />
+    </Product>
+    <Product>
+      <Id>e0cd6be5-8717-4382-b596-6213ba8fd1a8</Id>
+      <Title>Ensom kvinne</Title>
+      <ShortText>Mål: 59 x 72 cm</ShortText>
+      <LongText />
+      <Image>nr.39.jpg</Image>
+      <Stock>false</Stock>
+      <Price>0</Price>
+      <Category />
+      <CategoryChild>false</CategoryChild>
+      <CategoryAdult>false</CategoryAdult>
+      <Fabric />
+    </Product>
+    <Product>
+      <Id>a8d7b4c9-6544-47f4-b1e6-9c9302e47d8e</Id>
+      <Title>Andungen</Title>
+      <ShortText>Mål: 60 x 46 cm</ShortText>
+      <LongText />
+      <Image>nr.40.jpg</Image>
+      <Stock>true</Stock>
+      <Price>1800</Price>
+      <Category />
+      <CategoryChild>false</CategoryChild>
+      <CategoryAdult>false</CategoryAdult>
+      <Fabric />
+    </Product>
+    <Product>
+      <Id>8f3dd728-cb01-4d03-ad7c-5c562d4533c8</Id>
+      <Title>Hulemannen</Title>
+      <ShortText>Mål: 100 x 72 cm</ShortText>
+      <LongText />
+      <Image>nr.41.jpg</Image>
+      <Stock>true</Stock>
+      <Price>5000</Price>
+      <Category />
+      <CategoryChild>false</CategoryChild>
+      <CategoryAdult>false</CategoryAdult>
+      <Fabric />
+    </Product>
+    <Product>
+      <Id>2f18788e-ff03-452e-8f67-5726d713a357</Id>
+      <Title>Solskinnsbyen</Title>
+      <ShortText>Mål: 120 x 40 cm</ShortText>
+      <LongText />
+      <Image>solskinnsbyen.jpg</Image>
+      <Stock>true</Stock>
+      <Price>3000</Price>
+      <Category />
+      <CategoryChild>false</CategoryChild>
+      <CategoryAdult>false</CategoryAdult>
+      <Fabric />
+    </Product>
+    <Product>
+      <Id>5ed74cea-1f3d-40d1-8a56-437f2601bf60</Id>
+      <Title>Englene</Title>
+      <ShortText>Mål:00-</ShortText>
+      <LongText />
+      <Image>englene.jpg</Image>
+      <Stock>false</Stock>
+      <Price>0</Price>
+      <Category />
+      <CategoryChild>false</CategoryChild>
+      <CategoryAdult>false</CategoryAdult>
+      <Fabric />
+    </Product>
+    <Product>
+      <Id>e752b3bd-6c68-48ea-91f1-bed398607900</Id>
+      <Title>Fordeling av verdens goder</Title>
+      <ShortText>Mål:120 x 40 cm</ShortText>
+      <LongText />
+      <Image>fordeling av verdens goder.jpg</Image>
+      <Stock>true</Stock>
+      <Price>3000</Price>
+      <Category />
+      <CategoryChild>false</CategoryChild>
+      <CategoryAdult>false</CategoryAdult>
+      <Fabric />
+    </Product>
+    <Product>
+      <Id>70dda298-82a8-4969-bb86-40b198f7dbbc</Id>
+      <Title>Ingen tittel</Title>
+      <ShortText>Mål: 100 x 72 cm</ShortText>
+      <LongText />
+      <Image>ingen tittel.jpg</Image>
+      <Stock>true</Stock>
+      <Price>5000</Price>
+      <Category />
+      <CategoryChild>false</CategoryChild>
+      <CategoryAdult>false</CategoryAdult>
+      <Fabric />
+    </Product>
+    <Product>
+      <Id>b1ede98e-5dda-4e23-9f72-1a7419edeaa5</Id>
+      <Title>Håp</Title>
+      <ShortText>Mål: 50 x 50 cm</ShortText>
+      <LongText />
+      <Image>håp-07.jpg</Image>
+      <Stock>false</Stock>
+      <Price>0</Price>
+      <Category />
+      <CategoryChild>false</CategoryChild>
+      <CategoryAdult>false</CategoryAdult>
+      <Fabric />
+    </Product>
+  </Products>
+</ProductCatalog>

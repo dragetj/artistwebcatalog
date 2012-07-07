@@ -1,0 +1,756 @@
+﻿/* MasterPage start */
+body 
+{
+	background-color: #AFDCEC; 
+	font-family: arial;
+}
+table.master
+{
+	background-color: White; 
+	text-align: left; 
+	height: 768px;
+}
+tr.masterTopBottom
+{
+	height: 100px;
+}
+tr.masterCenter
+{
+	height: 568px;
+}
+td.masterLeft
+{
+	width: 15%; 
+	height: 100px; 
+	background: #AFDCEC url('../images/system/additionalCorner.jpg') no-repeat top right;
+}
+td.masterRight
+{
+	width: 10%; 
+	height: 100px; 
+	background-color: #AFDCEC;
+}
+td.masterTopCenter
+{
+	width: 768px;
+	text-align: center;
+}
+td.masterBottomCenter
+{
+	height: 100px; 
+	font-size: small;
+	text-align: center;
+}
+td.masterCenter
+{
+	padding-left: 10px;
+	vertical-align: top;
+}
+img.masterTopCenter
+{
+	border-style:none;
+}
+/* MasterPage end */
+table.main
+{
+	width: 100%; 
+	height: 568px;
+}
+table.pageDefault
+{
+	width: 100%; 
+	height: 568px;
+}
+td.breadcrumb
+{
+	font-size: small; 
+	height: 10px;
+	vertical-align: top;
+}
+div.breadcrumb
+{
+	float: left;
+}
+td.numberOfProducts
+{
+	font-size: small;
+	height: 10px;
+}
+div.numberOfProducts
+{
+	float: right;
+}
+td.slideshow
+{
+	width: 95%;
+	vertical-align: middle;
+}
+div.slideshow
+{
+	float: right; 
+	font-size: small;
+}
+td.pageDefaultAd
+{
+	height: 500px;
+	vertical-align: top;
+	text-align: left;
+}
+td.pageDefaultText
+{
+	vertical-align: middle;
+	text-align: left;
+}
+td.pageProductListSlideshow
+{
+	width: 5%;
+}
+td.pageProductList
+{
+	text-align: left;
+}
+div.pageProductList
+{
+	float: left; 
+	padding-right: 15px; 
+	height: 350px;
+}
+td.pageProductListImage
+{
+	height: 230px; 
+	width: 170px; 
+	background-color: #E8E8E8;
+	text-align: center;
+	vertical-align: middle;
+}
+.productListImage 
+{
+	max-height: 210px;
+}
+td.pageProductListText
+{
+	height: 70px;
+}
+td.pageProductDetail
+{
+	width: 50%; 
+	vertical-align: top;
+	text-align: left;
+}
+table.pageProductDetailText
+{
+	width: 100%; 
+	margin-top: 20px;
+}
+td.pageProductDetailTextHeader
+{
+	font-size: large; 
+	padding-bottom: 30px;
+	text-align: center;
+}
+td.pageProductDetailTextInfo
+{
+	padding-bottom: 20px;
+}
+td.pageProductDetailTextPrice
+{
+	width: 65%;
+}
+td.pageGuestbook
+{
+	width: 40%; 
+	padding-top: 20px;
+	vertical-align: top;
+}
+td.pageGuestbookEntry
+{
+	text-align: left;
+	vertical-align: top;
+}
+td.pageGuestbookEntryLeft
+{
+	width: 10%;
+	text-align: left;
+	vertical-align: top;
+}
+td.pageGuestbookEntryRight
+{
+	padding-right: 10px;
+	text-align: left;
+	vertical-align: top;
+}
+td.pageGuestbookEntryRightButton
+{
+	padding-right: 10px;
+	text-align: right;
+	vertical-align: top;
+}
+td.pageGuestbookSpace
+{
+	width: 10%;
+}
+td.pageGuestbookList
+{
+	height: 100%;
+	vertical-align: top;
+}
+table.pageGuestbookList
+{
+	font-size: small;
+	width: 96%;
+}
+td.pageGuestbookListEntry
+{
+	text-align: right;
+}
+td.pageContact
+{
+	padding-top: 20px;
+	vertical-align: top;
+	height: 30px;
+}
+td.pageContactDetails
+{
+	padding-left: 30px;
+	vertical-align: top;
+}
+a.pageContact
+{
+	color: Blue; 
+	text-decoration: underline;
+}
+td.colorMapList
+{
+	text-align: center;
+}
+td.pageAboutMeText
+{
+	padding-top: 20px;
+	vertical-align: top;
+}
+td.pageAboutMeImage
+{
+	padding-right: 10px;
+	vertical-align: top;
+}
+td.pageExhibitions
+{
+	padding-top: 20px;
+}
+td.pageExhibitionsList
+{
+	text-align: center;
+	vertical-align: top;
+}
+a {
+	text-decoration: none;
+	color: #000;
+}
+a:visited {
+	color: #000;
+}
+
+.graphics {
+	border-color: White;
+}
+#super-wrapper 
+{
+	/*position:absolute;
+	width:100%;*/
+}
+#baby-wrapper {
+	position:relative;
+	width: 1024px;
+	margin:auto auto;
+}
+
+
+/*--------------------------------------------------------------------------------------------------------------------------
+	Lightview start
+	http://www.nickstakenburg.com/projects/lightview
+  --------------------------------------------------------------------------------------------------------------------------*/
+#lightview {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	height: 150px;
+	width: 150px;
+	margin: -75px 0 0 -75px;
+	padding: 0;
+	text-align: left;
+}
+
+/* The container that holds everything */
+.lv_Container {
+	position: relative;
+	width: 100%;
+	height: 100%;
+	background: none;
+	padding: 0;
+	margin: 0;
+}
+
+.lv_Button {
+	cursor: pointer;
+	text-decoration: none;
+	border: none;
+	background: none;
+	margin: 0;
+	padding: 0;
+}
+
+/* The buttons on the side when you view a gallery */
+.lv_Sides {
+	position: absolute;
+	top: 50%;
+	left: 0;
+	clear: both;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+}
+.lv_Sides * { padding: 0; margin: 0; }
+.lv_Sides li {
+	list-style-type: none;
+	position: relative;
+}
+
+.lv_PrevSide { float: left; }
+.lv_NextSide { float: right; }
+.lv_Sides .lv_Wrapper {
+	width: 100%;
+	height: 100%;
+	cursor: pointer;
+}
+.lv_Sides .lv_Button {
+	float: left;
+	background: none;
+}
+
+/* The frames above and below the center, that hold the corners.
+   It's recommended not to change anything here, a lot is done in
+   javascript to build further upon this based on your settings.
+*/
+.lv_Frames {
+	width: 100%;
+	height: 100%;
+	position: relative;
+	padding: 0;
+	margin: 0;
+}
+.lv_Frames li {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.lv_Frame {
+	width: 100%;
+	display: block;
+}
+.lv_Frame * { padding: 0; margin: 0; }
+.lv_FrameTop {
+	position: absolute;
+	left: 0;
+	width: 100%;
+	display: block;
+}
+.lv_FrameBottom {
+	position: relative;
+	float: left;
+	clear: both;
+}
+
+.lv_Liquid {
+	position: relative;
+	float: left;
+	width: 100%;
+	overflow: hidden;
+	clear: both;
+}
+.lv_Liquid .lv_Filler {
+	position: absolute;
+	height: 100%;
+	width: 2px;
+	top: 0;
+	left: 50%;
+}
+
+.lv_Half {
+	display: block;
+	height: 100%;
+	clear: both;
+	line-height: 0px;
+}
+.lv_Half li { list-style-type: none; }
+.lv_Corner {
+	float: left;
+	position: relative;
+}
+.lv_CornerTr, .lv_CornerBr { float: right; }
+
+.lv_Fill {
+	position: absolute;
+	top: 0;
+	width: 100%;
+	height: 100%;
+}
+
+.lv_Half .lv_CornerWrapper {
+	float: left;
+	position: relative;
+	width: 50%;
+	height: 100%;
+	overflow: hidden;
+}
+.lv_HalfRight .lv_CornerWrapper { float: right; }
+
+.lv_Corner { position: relative; }
+.lv_Corner canvas { position: relative; }
+.lv_HalfLeft .lv_Corner { float: left; }
+.lv_HalfRight .lv_Corner {
+	position: relative;
+	float: right;
+}
+
+/* To position content correctly in the center with correct
+   rounded corner display we need a few wrappers.
+   This is to get it right on all browsers.
+*/
+.lv_Center {
+	position: relative;
+	clear: both;
+	height: 100%;
+	overflow: hidden;
+	background: none;
+	padding: 0;
+	margin: 0;
+}
+.lv_WrapUp {
+	position: absolute;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	overflow: hidden;
+	padding: 0;
+	margin: 0;
+}
+.lv_WrapDown {
+	position: relative;
+	height: 100%;
+	width: 100%;
+	overflow: hidden;
+	padding: 0;
+	margin: 0;
+}
+.lv_WrapCenter {
+	position: relative;
+	padding: 0;
+	margin: 0;
+}
+
+/* The loading indicator */
+.lv_Loading {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+}
+.lv_Loading .lv_Button {
+	float: left;
+	height: 100%;
+	width: 100%;
+}
+
+.lv_MediaWrapper {
+	position: relative;
+	width: 100%;
+	display: block;
+	overflow: hidden;
+	clear: both;
+	padding: 0;
+	margin: 0;
+}
+.lv_MediaWrapper img {
+	position: relative;
+	float: left;
+	padding: 0;
+	margin: 0;
+}
+
+/* The overlays on top of images that toggle the previous/next buttons */
+.lv_PrevNext {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	padding: 0;
+	margin: 0;
+}
+.lv_PrevNext * { padding: 0; margin: 0; }
+.lv_PrevNext .lv_Button {
+	position: relative;
+	height: 100%;
+}
+.lv_PrevButton { float: left; }
+.lv_NextButton { float: right; }
+
+/* The bar that holds title, caption, imagenumber, slideshow and closebutton */
+.lv_MenuBar {
+	clear: both;
+	position: relative;
+	width: 100%;
+	font: 11px Arial, Helvetica, sans-serif;
+	color: #7a7a7a;
+	padding: 0;
+	margin: 0;
+	text-align: left;
+}
+.lv_MenuBar * { padding: 0; margin: 0;}
+
+
+.lv_Close {
+    position: relative;
+	float: right;
+	overflow: hidden;
+	width: 100%;
+	height: 100%;
+}
+
+.lv_Data {
+	position: relative;
+	float: left;
+	padding-bottom: 3px;
+	line-height: 13px;
+	overflow: hidden;
+}
+
+/* simulates padding-left inside .lv_Data 
+.lv_DataText div, .lv_ImgNumber div { margin-left: 3px; } */
+
+.lv_Data li {
+	list-style-type: none;
+	float: left;
+	margin-top: 3px;
+}
+.lv_DataText { width: 100%; }
+.lv_DataText .lv_Title {
+	font-weight: bold;
+	margin-bottom: 2px;
+}
+.lv_DataText .lv_Caption { clear: both; }
+.lv_Data .lv_ImgNumber {
+	color: #a7a7a7;
+	margin-right: 5px;
+	margin-top: 5px;
+}
+
+.lv_Data .lv_innerPrevNext, 
+.lv_Data .lv_Slideshow {
+	position: relative;
+	border-left: 1px solid #d7d7d7;
+	padding: 0 5px;
+	margin-top: 5px;
+	vertical-align: middle;
+}
+.lv_Data .lv_Slideshow { padding-right: 0px; }
+
+.lv_Data .lv_innerPrevNext .lv_Button, 
+.lv_Data .lv_Slideshow .lv_Button { /* play and stop */
+	float: left;
+	background-position: center left;
+	background-repeat: no-repeat;
+}
+
+/* the boxes that hold media or external content */
+.lv_contentTop,
+.lv_contentBottom {
+	position: relative;
+	float: left;
+	margin: 0;
+	padding: 0;
+	clear: both;
+}
+
+#lightview iframe {
+	float: left;
+	border: 0;
+	clear: both;
+	padding: 0;
+	margin: 0;
+	background: none;
+}
+
+/* The container that hold buttons above the view, currently only topclose */
+.lv_topButtons {
+	position: absolute;
+	left: 0;
+	width: 100%;
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+}
+.lv_topcloseButtonImage { cursor: pointer; }
+
+
+/* The error/warning/download message that will appear when
+   a required plugin is not installed.
+*/
+#lightviewError p { padding: 0 0 10px 0; }
+#lightviewError div {
+	padding: 6px;
+	font: 11px Arial, Helvetica, sans-serif;
+}
+#lightviewError .message {
+	background: #fcb5b5;
+	color: #dd1f1f;
+	margin-bottom: 3px;
+}
+#lightviewError .type { font-weight: bold; }
+#lightviewError .pluginspage {
+	background: #b5fcbd;
+	color: #21be30;
+}
+#lightviewError a,
+#lightviewError a:hover,
+#lightviewError a:visited {
+	color: #21be30;
+	text-decoration: none;
+	background: none;
+	font-weight: bold;
+	border-bottom: 1px solid #7de689;
+}
+#lightviewError p {
+	margin-left: 0;
+	padding: 0;
+}
+
+#lv_overlay {
+  position: absolute; /* Opera will use fixed */
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+}
+
+/* navbar
+   Adds a bar below the view that takes over the default Controller
+*/
+#lightviewController {
+	position: fixed;
+	bottom: 0;
+	top: 0;
+	left: 50%;
+	margin: 0;
+	padding: 0;
+	color: #d2d2d2;
+	font: 11px Arial, Helvetica, sans-serif;
+}
+* html body #lightviewController { /* IE6 */
+	position: absolute;
+	top: auto;
+	margin-top: expression( (-1 * this.offsetHeight / 2 + (document.documentElement ? document.documentElement.scrollTop : 0) + (Lightview.controllerOffset || 0)) + 'px');	
+}
+#lightviewController ul {
+	display: block;
+	height: 100%;
+	float: left;
+	margin: 0;
+	padding: 0;
+	position: relative;
+}
+.lv_controllerTop, .lv_controllerMiddle, .lv_controllerBottom {
+	list-style-type: none;
+	float: left;
+	display: block;
+	position: relative;
+	clear: both;
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+}
+.lv_controllerCenter  { width: auto; float: left; }
+.lv_controllerCornerWrapper {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+.lv_controllerCornerWrapperTopLeft,
+.lv_controllerCornerWrapperBottomLeft { top: 0; left: -100%;}
+.lv_controllerCornerWrapperTopRight,
+.lv_controllerCornerWrapperBottomRight { top: 0; left: 100%;}
+
+#lightviewController .lv_CornerWrapper {
+	width: 100%;
+}
+#lightviewController .lv_Corner { float: left; }
+#lightviewController .lv_Corner {
+	float: right;
+	position: relative;
+}
+#lightviewController .lv_CornerTr, #lightviewController .lv_CornerBr { float: left; }
+.lv_controllerBetweenCorners {
+	position: relative;
+	height: 100%;
+	overflow: hidden;
+}
+
+.lv_controllerMiddle {
+	position: relative;
+	height: 100%;
+	float: left;
+}
+.lv_controllerCenter { float: left; width: auto;}
+.lv_controllerCenter li {
+	list-style-type: none;
+	float: left;
+	display: inline;
+	position: relative;
+	clear: none;
+}
+.lv_controllerSetNumber {
+	float: left;
+	text-align: center;
+}
+
+#lightviewController .lv_Button {
+	float: left;
+	position: relative;
+	height: 100%;
+	clear: none;
+}
+.lv_controllerSetNumber {
+	position: relative;
+	height: 100%;
+	padding-right: 3px;
+}
+.lv_controllerPrev, 
+.lv_controllerNext, 
+.lv_controllerSlideshow, 
+.lv_controllerClose {
+	float: left;
+	position: relative;
+	height: 100%;
+	padding-left: 3px;
+}
+
+.lv_controllerPrev { border-left: 1px solid #3c3c3c; }
+#lightviewController .lv_controllerNext { padding-right: 3px; border-right: 1px solid #3c3c3c; }
+
+* html #lightview { /* IE6 */
+	position: absolute;
+	margin-top: expression( (-1 * this.offsetHeight / 2 + (document.documentElement ? document.documentElement.scrollTop : 0) - (Lightview.controllerHeight || 0)) + 'px');
+	margin-left: expression( -1 * this.offsetWidth / 2 + (document.documentElement ? document.documentElement.scrollLeft : 0) + 'px');
+}
+
+/* Always cover 100% of the screen in IE6 */
+html #lv_overlay {
+	position: absolute;
+	height: expression(((window.Enumerable && window.Enumerable.max) ? [document.body.scrollHeight, document.documentElement.scrollHeight, document.body.offsetHeight, document.documentElement.clientHeight].max() : document.documentElement.scrollHeight) + 'px' );
+	width: expression(((window.Enumerable && window.Enumerable.max) ? [document.body.scrollWidth, document.documentElement.scrollWidth, document.body.offsetWidth, document.documentElement.clientHeight].max() : document.documentElement.scrollWidth) + 'px' );
+}
+/*--------------------------------------------------------------------------------------------------------------------------
+	Lightview end
+	http://www.nickstakenburg.com/projects/lightview
+  --------------------------------------------------------------------------------------------------------------------------*/

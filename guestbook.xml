@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<Guestbook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Guests>
+    <GuestbookEntry>
+      <Id>00000000-0000-0000-0000-000000000000</Id>
+      <Name>Test</Name>
+      <Text>Test[afro.gif]</Text>
+      <Email>Test</Email>
+      <Date>03.03.2011 09:36:53</Date>
+    </GuestbookEntry>
+    <GuestbookEntry>
+      <Id>00000000-0000-0000-0000-000000000000</Id>
+      <Name />
+      <Text>[klem.gif]</Text>
+      <Email />
+      <Date>30.08.2009 08:48:09</Date>
+    </GuestbookEntry>
+    <GuestbookEntry>
+      <Id>00000000-0000-0000-0000-000000000000</Id>
+      <Name />
+      <Text>[hund.gif]</Text>
+      <Email />
+      <Date>30.08.2009 08:48:07</Date>
+    </GuestbookEntry>
+    <GuestbookEntry>
+      <Id>00000000-0000-0000-0000-000000000000</Id>
+      <Name />
+      <Text>[afro.gif]</Text>
+      <Email />
+      <Date>30.08.2009 08:48:05</Date>
+    </GuestbookEntry>
+    <GuestbookEntry>
+      <Id>00000000-0000-0000-0000-000000000000</Id>
+      <Name />
+      <Text>w[klem.gif]</Text>
+      <Email />
+      <Date>30.08.2009 08:47:56</Date>
+    </GuestbookEntry>
+    <GuestbookEntry>
+      <Id>00000000-0000-0000-0000-000000000000</Id>
+      <Name />
+      <Text>[kanin.gif]</Text>
+      <Email />
+      <Date>30.08.2009 08:47:52</Date>
+    </GuestbookEntry>
+    <GuestbookEntry>
+      <Id>00000000-0000-0000-0000-000000000000</Id>
+      <Name />
+      <Text>[hund.gif]</Text>
+      <Email />
+      <Date>30.08.2009 08:47:48</Date>
+    </GuestbookEntry>
+    <GuestbookEntry>
+      <Id>00000000-0000-0000-0000-000000000000</Id>
+      <Name>w</Name>
+      <Text>w</Text>
+      <Email>w</Email>
+      <Date>30.08.2009 08:47:44</Date>
+    </GuestbookEntry>
+    <GuestbookEntry>
+      <Id>00000000-0000-0000-0000-000000000000</Id>
+      <Name>rrrr</Name>
+      <Text>ww</Text>
+      <Email>ww</Email>
+      <Date>30.08.2009 08:47:39</Date>
+    </GuestbookEntry>
+    <GuestbookEntry>
+      <Id>00000000-0000-0000-0000-000000000000</Id>
+      <Name>h</Name>
+      <Text>h[banan.gif]</Text>
+      <Email>h</Email>
+      <Date>22.08.2009 23:52:45</Date>
+    </GuestbookEntry>
+  </Guests>
+</Guestbook>

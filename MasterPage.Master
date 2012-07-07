@@ -1,0 +1,99 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="ArtistWebCatalog.MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title></title>
+    <link runat="server" id="css" rel="stylesheet" type="text/css" />
+    
+    <script src="App_Themes/js/prototype.js" type="text/javascript"></script>
+	<script src="http://ajax.googleapis.com/ajax/libs/scriptaculous/1.8.2/scriptaculous.js" type="text/javascript"></script>
+	<script src="App_Themes/js/lightview.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        window.onload = function () {
+            var url = document.URL;
+            var kode = '<div class=fb-like data-href=' + url + ' data-layout="button_count" data-show-faces=true></div>'
+            document.getElementById('fb').innerHTML = kode;
+            FacebookLink(document, 'script', 'facebook-jssdk');
+        }
+
+        function FacebookLink(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+            fjs.parentNode.insertBefore(js, fjs);
+        } 
+     </script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<!-- background: #AFDCEC url(<%= ConfigurationManager.AppSettings["imagePath"] %>background.jpg) repeat-x; -->
+<body>
+    <form id="form1" runat="server">
+        <div id="super-wrapper">
+            <div id="baby-wrapper">
+                <table class="master" cellpadding="0" cellspacing="0">
+                    <tr class="masterTopBottom">
+                        <td class="masterLeft">
+                            <% if (bool.Parse(ConfigurationManager.AppSettings["UseCurvedCorners"])) { %>
+                                <img src="<%= ConfigurationManager.AppSettings["ImageSystemPath"] %>corner_topLeft.png" />
+                            <% } %></td>
+                        <td class="masterTopCenter">
+                            <a href="default.aspx">
+                                <% if (bool.Parse(ConfigurationManager.AppSettings["UseLogo"])) { %>
+                                    <img class="masterTopCenter" src="<%= ConfigurationManager.AppSettings["ImageSystemPath"] %>logo.jpg" width="500px" height="97px" />
+                                <% } else { %>
+                                    <asp:Literal id="litLogoText" runat="server" />
+                                <% } %> </a></td>
+                        <td class="masterRight">
+                            <% if (bool.Parse(ConfigurationManager.AppSettings["UseCurvedCorners"])) { %>
+                                <img src="<%= ConfigurationManager.AppSettings["ImageSystemPath"] %>corner_topRight.png" />
+                            <% } %></td>
+                    </tr>
+                    <tr class="masterCenter">
+                        <td class="masterCenter">
+                            <b><a href="ProductList.aspx"><asp:label id="lblTreeViewTitle" runat="server" /></a></b>
+                            <% if (bool.Parse(ConfigurationManager.AppSettings["TreeView"])) { %>
+                                <asp:treeview id="tvProducts" runat="server" expanddepth="0" onselectednodechanged="tvProducts_SelectedNodeChanged" onunload="tvProducts_Unload"><nodes></nodes></asp:treeview><% } %>
+                            <% if (bool.Parse(ConfigurationManager.AppSettings["ColorMap"])) { %>
+                                <b><asp:hyperlink id="hlColorMap" runat="server" navigateurl="ColorMap.aspx" /></b><br /><% } %>
+                            <% if (bool.Parse(ConfigurationManager.AppSettings["Exhibitions"])) { %>
+                                <b><asp:hyperlink id="hlExhibitions" runat="server" navigateurl="Exhibitions.aspx" /></b><br /><% } %>
+                            <% if (bool.Parse(ConfigurationManager.AppSettings["Guestbook"])) { %>
+                                <b><asp:hyperlink id="hlGuestbook" runat="server" navigateurl="Guestbook.aspx" /></b><br /><% } %>
+                            <% if (bool.Parse(ConfigurationManager.AppSettings["Contact"])) { %>
+                                <b><asp:hyperlink id="hlContact" runat="server" navigateurl="Contact.aspx" /></b><br /><% } %>
+                            <% if (bool.Parse(ConfigurationManager.AppSettings["AboutMe"])) { %>
+                                <b><asp:hyperlink id="hlAboutMe" runat="server" navigateurl="AboutMe.aspx" /></b><br /><% } %>
+                            <% if (ConfigurationManager.AppSettings["Artist"] == "rrart") { %>
+                                <br />
+                                <div id="fb-root"></div>
+                                <span id="fb"></span>
+                            <% } %>
+                        </td>
+                        <td colspan="2">
+                            <asp:ContentPlaceHolder ID="mainContent" runat="server">
+                            </asp:ContentPlaceHolder>
+                        </td>
+                    </tr>
+                    <tr class="masterTopBottom">
+                        <td class="masterLeft">
+                            <% if (bool.Parse(ConfigurationManager.AppSettings["UseCurvedCorners"])) { %>
+                                <img src="<%= ConfigurationManager.AppSettings["ImageSystemPath"] %>corner_bottomLeft.png" />
+                            <% } %></td>
+                        <td class="masterBottomCenter">
+                            Utviklet av ED<a onclick="javascript:window.open('<%= ConfigurationManager.AppSettings["ImageSystemPath"] %>Brigt.jpg')">B</a> Sins<a onclick="javascript:window.open('<%= ConfigurationManager.AppSettings["ImageSystemPath"] %>Muscle.jpg')">e</a>n AS - <asp:literal id="litDate" runat="server" />
+                        </td>
+                        <td class="masterRight">
+                            <% if (bool.Parse(ConfigurationManager.AppSettings["UseCurvedCorners"])) { %>
+                                <img src="<%= ConfigurationManager.AppSettings["ImageSystemPath"] %>corner_bottomRight.png" />
+                            <% } %></td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </form>
+</body>
+</html>
